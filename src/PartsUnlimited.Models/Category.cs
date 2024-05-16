@@ -6,6 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    //Cambio jgcm release
     public class Category
     {
         public int CategoryId { get; set; }
