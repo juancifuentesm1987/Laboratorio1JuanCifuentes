@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-    //
+    // Cambio 2 JGCM 2
     public class CartItem
     {
         [Key]
