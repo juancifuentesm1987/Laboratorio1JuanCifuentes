@@ -9,6 +9,8 @@
 *.rtf	diff=astextplain
 *.RTF	diff=astextplain
 
+ //cambios en ramas distintas maniJGCM #3-1
+
 *.jpg  	binary
 *.png 	binary
 *.gif 	binary
