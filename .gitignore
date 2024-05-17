@@ -11,6 +11,7 @@
 _ReSharper.*
 *.csproj.user
 *[Rr]e[Ss]harper.user
+ //cambios en ramas distintas DevJGCM #3-2
 _ReSharper.*/
 packages/*
 artifacts/*
